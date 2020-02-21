@@ -1,5 +1,5 @@
 ---
-title: A New Blog Post
+title: An even better blog post
 date: 'February 19, 2020'
 author: Dave
 ---
